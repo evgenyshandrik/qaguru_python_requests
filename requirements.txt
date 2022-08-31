@@ -4,3 +4,5 @@ voluptuous
 pytest_voluptuous
 faker
 python-dotenv==0.20.0
+curlify
+allure-pytest
